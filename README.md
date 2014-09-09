@@ -9,6 +9,7 @@ development. see project roadmap on [trello][t]
 
 ## Goal
 - Go Idioms
+- designed to third party apps
 - simple & easy to use
 - well tested
 - fast
